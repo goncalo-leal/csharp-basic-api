@@ -1,0 +1,1 @@
+You can find the API's documentation in [http://localhost:5000/swagger/index.html](http://localhost:5000/swagger/index.html).
